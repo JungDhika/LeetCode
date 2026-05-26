@@ -4,7 +4,7 @@ var isPalindrome = function(x) {
     
     if(number[0] == "-") return false;
     
-    // revers only works with array so need convert to split
+    //reverse only works with arrays, so you need to convert it using split.
     let numberTwist = number.split('').reverse().join('');
 
     return numberTwist === number ? true : false;
