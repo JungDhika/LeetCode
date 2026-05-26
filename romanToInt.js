@@ -1,7 +1,3 @@
-
-
-
-
 var romanToInt = function(roman) {
     
     let symbol = {
