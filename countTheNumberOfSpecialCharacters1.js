@@ -1,0 +1,4 @@
+var numberOfSpecialChars = function(word) {
+    
+};
+
